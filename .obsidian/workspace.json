@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "df34315a81a1c5c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d2c5e62b5f9f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7fbc3e311964697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-05-15-week1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adf43f75ea38c7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd724e41923768e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eea2fa8a0da134be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b78d54112e747407",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29ee5e0bcb1778e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f40303f75fdc522",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a9b0475448dbec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e138807dcd2546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-05-15-week1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed80c44130439cea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-05-15-week1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e3164994269688c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73ce934e98d61edf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-05-15-week1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "f7fbc3e311964697",
+  "lastOpenFiles": [
+    "_posts/2023-07-17-week10.md",
+    "_posts/2023-07-10-week9.md",
+    "_posts/2023-07-03-week8.md",
+    "_posts/2023-06-26-week7.md",
+    "_posts/2023-06-19-week6.md",
+    "_posts/2023-06-12-week5.md",
+    "_posts/2023-06-05-week4.md",
+    "_posts/2023-05-29-week3.md",
+    "_posts/2023-05-22-week2.md",
+    "_posts/2023-05-15-week1.md",
+    "index.md",
+    "images/NIHGrantAppScoring.png",
+    "NIHGrantAppScoring.png",
+    "README.md",
+    "images/biophoto.png",
+    "images/404.jpg",
+    "images/config.png",
+    "images/first-post.png",
+    "images/jekyll-logo.png",
+    "images/jekyll-now-theme-screenshot.jpg",
+    "images/step1.gif",
+    "files/README.md",
+    "path/to/image.jpg.md",
+    "path/to",
+    "path"
+  ]
+}

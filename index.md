@@ -13,12 +13,12 @@ When I'm not dreaming about revolutionizing healthcare delivery, I can be found 
 
 ## About My Advisor
 
-George Chacko is Executive Director of Research Analytics at the Grainger College of Engineering and Research Associate Professor of Computer Science at UIUC. His research interests span scalable clustering methods, novelty in science, research impact, knowledge diffusion, historiography, and the structure and formation of research communities. More generally, his research involves scientometrics. 
+[George Chacko](https://cs.illinois.edu/about/people/faculty/chackoge), PhD is Executive Director of Research Analytics at the Grainger College of Engineering and Research Associate Professor of Computer Science at UIUC. His research interests span scalable clustering methods, novelty in science, research impact, knowledge diffusion, historiography, and the structure and formation of research communities. More generally, his research involves scientometrics. 
+
+## About My Mentor 
+
+[Craig Miller](https://facsrv.cs.depaul.edu/~cmiller/), PhD is a Professor in the School of Computing at DePaul University. His research interests span Cognitive Science, Human-Computer Interaction, and Computing Education. 
 
 ## My Blog
 
 [My Blog](blog.html)
-
-## Scientific Literature
-
-[Articles](blog.html)
