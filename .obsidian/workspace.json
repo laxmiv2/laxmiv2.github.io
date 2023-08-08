@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-24-week11.md",
+                "file": "_posts/2023-07-31-week12.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1f40303f75fdc522",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-07-24-week11.md",
+                "file": "_posts/2023-07-31-week12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-07-24-week11.md",
+                "file": "_posts/2023-07-31-week12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-07-24-week11.md"
+                "file": "_posts/2023-07-31-week12.md"
               }
             }
           }
@@ -148,29 +148,37 @@
   },
   "active": "f7fbc3e311964697",
   "lastOpenFiles": [
-    "_posts/2023-07-17-week10.md",
+    "files/ResearchProposal_Final.pdf",
     "_posts/2023-07-24-week11.md",
-    "_posts/2023-06-05-week4.md",
-    "_posts/2023-06-12-week5.md",
-    "_posts/2023-06-26-week7.md",
+    "_posts/2023-07-31-week12.md",
+    "_posts/2023-07-17-week10.md",
     "_posts/2023-07-10-week9.md",
     "_posts/2023-07-03-week8.md",
-    "_posts/2023-06-19-week6.md",
+    "_posts/2023-06-26-week7.md",
+    "files/A3Report.pdf",
+    "files/A2Report.pdf",
+    "_posts/2023-06-12-week5.md",
+    "_posts/2023-06-05-week4.md",
+    "files/A1Report.pdf",
     "_posts/2023-05-29-week3.md",
     "_posts/2023-05-22-week2.md",
     "_posts/2023-05-15-week1.md",
+    "files/Midterm Report.md",
+    "_posts/2023-06-19-week6.md",
+    "files/README.md",
+    "images/CPM.png",
+    "images/modularity.png",
+    "Screenshot 2023-07-31 at 2.48.17 PM.png",
+    "README.md",
     "index.md",
+    "404.md",
     "images/NIHGrantAppScoring.png",
     "NIHGrantAppScoring.png",
-    "README.md",
     "images/biophoto.png",
     "images/404.jpg",
     "images/config.png",
     "images/first-post.png",
     "images/jekyll-logo.png",
-    "images/jekyll-now-theme-screenshot.jpg",
-    "images/step1.gif",
-    "files/README.md",
     "path/to/image.jpg.md",
     "path/to",
     "path"

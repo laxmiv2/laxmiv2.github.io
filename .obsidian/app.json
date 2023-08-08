@@ -1,5 +1,37 @@
 {
   "spellcheckDictionary": [
-    "Entrez"
-  ]
+    "Entrez",
+    "subreddits",
+    "igraph",
+    "NetworkX",
+    "NetworkX",
+    "NetworKit",
+    "lognormal",
+    "Moffitt",
+    "EntrezAPI",
+    "I *sftp",
+    "Colab",
+    "Pott",
+    "Girvan",
+    "IKC",
+    "cpm",
+    "numpy",
+    "Chacko",
+    "Warnow",
+    "Tandy",
+    "Infomap",
+    "bibliometrics",
+    "Bibliometrics",
+    "Boyack",
+    "Klavans",
+    "nt to modify ",
+    "ns\n\nThis has ",
+    "scientometric",
+    "bibliometric",
+    "Lancichinetti",
+    "Radicchi",
+    "nnec",
+    "UIUC"
+  ],
+  "alwaysUpdateLinks": true
 }
