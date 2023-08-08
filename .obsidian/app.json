@@ -31,7 +31,8 @@
     "Lancichinetti",
     "Radicchi",
     "nnec",
-    "UIUC"
+    "UIUC",
+    "seaborn"
   ],
   "alwaysUpdateLinks": true
 }
